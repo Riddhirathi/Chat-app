@@ -1,4 +1,4 @@
 # Chat-app
 
-Name - Riddhi Rathi
+Name - Riddhi Rathi, 
 Mathematics and Computing, IIT Patna
